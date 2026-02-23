@@ -1,0 +1,5 @@
+{
+  "name": "Excel to CSV Folder Converter",
+  "description": "Select a folder containing Excel files, and convert them to CSV while maintaining the folder structure.",
+  "requestFramePermissions": []
+}
